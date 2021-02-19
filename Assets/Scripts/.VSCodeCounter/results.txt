@@ -1,0 +1,49 @@
+Date : 2020-07-11 14:33:28
+Directory : f:\unity\LudumDare46.2\Assets\Scripts
+Total : 23 files,  1015 codes, 61 comments, 222 blanks, all 1298 lines
+
+Languages
++----------+------------+------------+------------+------------+------------+
+| language | files      | code       | comment    | blank      | total      |
++----------+------------+------------+------------+------------+------------+
+| C#       |         23 |      1,015 |         61 |        222 |      1,298 |
++----------+------------+------------+------------+------------+------------+
+
+Directories
++----------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                 | files      | code       | comment    | blank      | total      |
++----------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                    |         23 |      1,015 |         61 |        222 |      1,298 |
+| ItemS                                                                |          4 |        115 |         18 |         37 |        170 |
+| UI                                                                   |         10 |        234 |         11 |         65 |        310 |
++----------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++----------------------------------------------------------------------+----------+------------+------------+------------+------------+
+| filename                                                             | language | code       | comment    | blank      | total      |
++----------------------------------------------------------------------+----------+------------+------------+------------+------------+
+| f:\unity\LudumDare46.2\Assets\Scripts\CameraFollow.cs                | C#       |         15 |          1 |          2 |         18 |
+| f:\unity\LudumDare46.2\Assets\Scripts\Crafting.cs                    | C#       |         76 |          4 |         12 |         92 |
+| f:\unity\LudumDare46.2\Assets\Scripts\CraftingRecipe.cs              | C#       |         17 |          2 |          5 |         24 |
+| f:\unity\LudumDare46.2\Assets\Scripts\FireController.cs              | C#       |        145 |         10 |         22 |        177 |
+| f:\unity\LudumDare46.2\Assets\Scripts\Inventory.cs                   | C#       |         42 |          0 |         11 |         53 |
+| f:\unity\LudumDare46.2\Assets\Scripts\InventoryManager.cs            | C#       |          6 |          0 |          3 |          9 |
+| f:\unity\LudumDare46.2\Assets\Scripts\ItemS\Item.cs                  | C#       |         27 |          0 |         13 |         40 |
+| f:\unity\LudumDare46.2\Assets\Scripts\ItemS\ItemSelector.cs          | C#       |         22 |          6 |          4 |         32 |
+| f:\unity\LudumDare46.2\Assets\Scripts\ItemS\ItemSpawner.cs           | C#       |         43 |         10 |         13 |         66 |
+| f:\unity\LudumDare46.2\Assets\Scripts\ItemS\ItemText.cs              | C#       |         23 |          2 |          7 |         32 |
+| f:\unity\LudumDare46.2\Assets\Scripts\NewBehaviourScript.cs          | C#       |         12 |          2 |          5 |         19 |
+| f:\unity\LudumDare46.2\Assets\Scripts\Player.cs                      | C#       |        321 |         12 |         55 |        388 |
+| f:\unity\LudumDare46.2\Assets\Scripts\TimerScript.cs                 | C#       |         32 |          1 |          5 |         38 |
+| f:\unity\LudumDare46.2\Assets\Scripts\UI\DeathManager.cs             | C#       |         23 |          3 |          5 |         31 |
+| f:\unity\LudumDare46.2\Assets\Scripts\UI\DeathManagerInterface.cs    | C#       |         16 |          0 |          5 |         21 |
+| f:\unity\LudumDare46.2\Assets\Scripts\UI\MainMenuManager.cs          | C#       |         26 |          3 |         11 |         40 |
+| f:\unity\LudumDare46.2\Assets\Scripts\UI\MainMenuManagerInterface.cs | C#       |         28 |          0 |         11 |         39 |
+| f:\unity\LudumDare46.2\Assets\Scripts\UI\PauseButton.cs              | C#       |         22 |          0 |          7 |         29 |
+| f:\unity\LudumDare46.2\Assets\Scripts\UI\PauseManager.cs             | C#       |         49 |          2 |          9 |         60 |
+| f:\unity\LudumDare46.2\Assets\Scripts\UI\StartButton.cs              | C#       |         13 |          0 |          4 |         17 |
+| f:\unity\LudumDare46.2\Assets\Scripts\UI\StartManager.cs             | C#       |         18 |          0 |          4 |         22 |
+| f:\unity\LudumDare46.2\Assets\Scripts\UI\WinManager.cs               | C#       |         23 |          3 |          4 |         30 |
+| f:\unity\LudumDare46.2\Assets\Scripts\UI\WinManagerInterface.cs      | C#       |         16 |          0 |          5 |         21 |
+| Total                                                                |          |      1,015 |         61 |        222 |      1,298 |
++----------------------------------------------------------------------+----------+------------+------------+------------+------------+
